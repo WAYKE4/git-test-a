@@ -10,6 +10,10 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         int num = scanner.nextInt(); // second commit
         double num2 = scanner.nextDouble(); // develope 1 commit
+        for (int i = 0 ; i < 100 ; i ++)
+        {
+            i++ ;
+        }
 
     }
 }

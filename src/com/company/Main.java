@@ -9,6 +9,7 @@ public class Main {
         System.out.println("Hello"); //first commit
         Scanner scanner = new Scanner(System.in);
         int num = scanner.nextInt(); // second commit
+        double num2 = scanner.nextDouble(); // develope 1 commit
 
     }
 }

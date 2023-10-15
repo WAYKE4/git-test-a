@@ -11,5 +11,11 @@ public class Main {
         int num = scanner.nextInt(); // second commit
         double num2 = scanner.nextDouble(); // develope 1 commit
 
+        for (int i = 0 ; i < 50 ; i++)
+        {
+            i++;
+        }
+
+
     }
 }
